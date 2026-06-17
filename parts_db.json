@@ -14,7 +14,8 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/blades/b_aero_pegasus.png",
-      "line": "bx"
+      "line": "bx",
+      "hasbro_name": "Pegasus Aero"
     },
     {
       "id": "b_bear_scratch",
@@ -30,7 +31,8 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/blades/b_bear_scratch.png",
-      "line": "bx"
+      "line": "bx",
+      "hasbro_name": "Scratch Bear"
     },
     {
       "id": "b_black_shell",
@@ -46,7 +48,8 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/blades/b_black_shell.png",
-      "line": "bx"
+      "line": "bx",
+      "hasbro_name": "Shell Black"
     },
     {
       "id": "b_cobalt_dragoon",
@@ -62,23 +65,25 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/blades/b_cobalt_dragoon.png",
-      "line": "bx"
+      "line": "bx",
+      "hasbro_name": "Dragoon Cobalt"
     },
     {
       "id": "b_cobalt_drake",
       "name": "Cobalt Drake",
-      "weight": 46.5,
+      "weight": 38.0,
       "type": "Attack",
-      "attack": 0,
-      "defense": 0,
-      "stamina": 0,
+      "attack": 65,
+      "defense": 30,
+      "stamina": 20,
       "dash": 0,
       "burst_resistance": 0,
       "spin_direction": "Right",
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/blades/b_cobalt_drake.png",
-      "line": "bx"
+      "line": "bx",
+      "hasbro_name": "Drake Cobalt"
     },
     {
       "id": "b_crimson_garuda",
@@ -94,7 +99,8 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/blades/b_crimson_garuda.png",
-      "line": "bx"
+      "line": "bx",
+      "hasbro_name": "Garuda Crimson"
     },
     {
       "id": "b_croco_crunch",
@@ -126,7 +132,8 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/blades/b_draciel_shield.png",
-      "line": "bx"
+      "line": "bx",
+      "hasbro_name": "Shield Draciel"
     },
     {
       "id": "b_dragoon_storm",
@@ -142,7 +149,8 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/blades/b_dragoon_storm.png",
-      "line": "unknown"
+      "line": "unknown",
+      "hasbro_name": "Storm Dragoon"
     },
     {
       "id": "b_dran_buster",
@@ -158,7 +166,8 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/blades/b_dran_buster.png",
-      "line": "ux"
+      "line": "ux",
+      "hasbro_name": "Buster Dran"
     },
     {
       "id": "b_dran_dagger",
@@ -174,7 +183,8 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/blades/b_dran_dagger.png",
-      "line": "bx"
+      "line": "bx",
+      "hasbro_name": "Dagger Dran"
     },
     {
       "id": "b_dran_sword",
@@ -187,14 +197,15 @@
       "dash": 0,
       "burst_resistance": 0,
       "spin_direction": "Right",
-      "release_date_tt": null,
-      "release_date_hasbro": null,
+      "release_date_tt": 2023,
+      "release_date_hasbro": 2024,
       "image_url": "assets/images/parts/blades/b_dran_sword.png",
-      "line": "bx"
+      "line": "bx",
+      "hasbro_name": "Sword Dran"
     },
     {
       "id": "b_dranzer_spriral",
-      "name": "Dranzer Spriral",
+      "name": "Dranzer Spiral",
       "weight": 27.7,
       "type": "Balance",
       "attack": 35,
@@ -222,7 +233,8 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/blades/b_driger_slash.png",
-      "line": "bx"
+      "line": "bx",
+      "hasbro_name": "Slash Driger"
     },
     {
       "id": "b_ghost_circle",
@@ -238,7 +250,8 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/blades/b_ghost_circle.png",
-      "line": "ux"
+      "line": "ux",
+      "hasbro_name": "Circle Ghost"
     },
     {
       "id": "b_golem_rock",
@@ -270,7 +283,8 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/blades/b_hells_chain.png",
-      "line": "bx"
+      "line": "bx",
+      "hasbro_name": "Chain Incendio"
     },
     {
       "id": "b_hells_hammer",
@@ -286,7 +300,8 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/blades/b_hells_hammer.png",
-      "line": "ux"
+      "line": "ux",
+      "hasbro_name": "Hammer Incendio"
     },
     {
       "id": "b_hells_scythe",
@@ -302,7 +317,8 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/blades/b_hells_scythe.png",
-      "line": "bx"
+      "line": "bx",
+      "hasbro_name": "Scythe Incendio"
     },
     {
       "id": "b_impact_drake",
@@ -334,7 +350,8 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/blades/b_knight_lance.png",
-      "line": "bx"
+      "line": "bx",
+      "hasbro_name": "Lance Knight"
     },
     {
       "id": "b_knight_mail",
@@ -366,7 +383,8 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/blades/b_knight_shield.png",
-      "line": "bx"
+      "line": "bx",
+      "hasbro_name": "Helm Knight"
     },
     {
       "id": "b_leon_claw",
@@ -382,7 +400,8 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/blades/b_leon_claw.png",
-      "line": "bx"
+      "line": "bx",
+      "hasbro_name": "Claw Leon"
     },
     {
       "id": "b_leon_crest",
@@ -398,7 +417,8 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/blades/b_leon_crest.png",
-      "line": "ux"
+      "line": "ux",
+      "hasbro_name": "Crest Leon"
     },
     {
       "id": "b_lightning_l_drago_ru",
@@ -446,7 +466,8 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/blades/b_mammoth_tusk.png",
-      "line": "bx"
+      "line": "bx",
+      "hasbro_name": "Tusk Mammoth"
     },
     {
       "id": "b_phoenix_feather",
@@ -478,7 +499,8 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/blades/b_phoenix_rudder.png",
-      "line": "ux"
+      "line": "ux",
+      "hasbro_name": "Rudder Phoenix"
     },
     {
       "id": "b_phoenix_wing",
@@ -494,7 +516,8 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/blades/b_phoenix_wing.png",
-      "line": "bx"
+      "line": "bx",
+      "hasbro_name": "Wing Phoenix"
     },
     {
       "id": "b_ptera_swing",
@@ -526,11 +549,12 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/blades/b_rhino_horn.png",
-      "line": "bx"
+      "line": "bx",
+      "hasbro_name": "Horn Rhino"
     },
     {
-      "id": "b_roar_tyranno",
-      "name": "Roar Tyranno",
+      "id": "b_tyranno_roar",
+      "name": "Tyranno Roar",
       "weight": 36.0,
       "type": "Attack",
       "attack": 60,
@@ -541,7 +565,7 @@
       "spin_direction": "Right",
       "release_date_tt": null,
       "release_date_hasbro": null,
-      "image_url": "assets/images/parts/blades/b_roar_tyranno.png",
+      "image_url": "assets/images/parts/blades/b_tyranno_roar.png",
       "line": "bx"
     },
     {
@@ -558,7 +582,8 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/blades/b_samurai_saber.png",
-      "line": "ux"
+      "line": "ux",
+      "hasbro_name": "Saber Samurai"
     },
     {
       "id": "b_samurai_steel",
@@ -606,7 +631,8 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/blades/b_shark_edge.png",
-      "line": "bx"
+      "line": "bx",
+      "hasbro_name": "Keel Shark"
     },
     {
       "id": "b_shelter_drake",
@@ -670,7 +696,8 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/blades/b_silver_wolf.png",
-      "line": "ux"
+      "line": "ux",
+      "hasbro_name": "Wolf Silver"
     },
     {
       "id": "b_sphinx_cowl",
@@ -734,7 +761,8 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/blades/b_tyranno_beat.png",
-      "line": "bx"
+      "line": "bx",
+      "hasbro_name": "Roar Tyranno"
     },
     {
       "id": "b_unicorn_sting",
@@ -750,7 +778,8 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/blades/b_unicorn_sting.png",
-      "line": "bx"
+      "line": "bx",
+      "hasbro_name": "Sting Unicorn"
     },
     {
       "id": "b_victory_valkyrie",
@@ -782,7 +811,8 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/blades/b_viper_tail.png",
-      "line": "bx"
+      "line": "bx",
+      "hasbro_name": "Tail Viper"
     },
     {
       "id": "b_weiss_tiger",
@@ -798,7 +828,8 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/blades/b_weiss_tiger.png",
-      "line": "bx"
+      "line": "bx",
+      "hasbro_name": "Tiger Weiss"
     },
     {
       "id": "b_whale_wave",
@@ -814,7 +845,8 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/blades/b_whale_wave.png",
-      "line": "bx"
+      "line": "bx",
+      "hasbro_name": "Wave Whale"
     },
     {
       "id": "b_wizard_arrow",
@@ -830,7 +862,8 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/blades/b_wizard_arrow.png",
-      "line": "bx"
+      "line": "bx",
+      "hasbro_name": "Arrow Wizard"
     },
     {
       "id": "b_wizard_rod",
@@ -846,7 +879,8 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/blades/b_wizard_rod.png",
-      "line": "ux"
+      "line": "ux",
+      "hasbro_name": "Rod Wizard"
     },
     {
       "id": "b_wyvern_gale",
@@ -862,7 +896,8 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/blades/b_wyvern_gale.png",
-      "line": "bx"
+      "line": "bx",
+      "hasbro_name": "Gale Wyvern"
     },
     {
       "id": "b_xeno_xcalibur",
@@ -881,8 +916,8 @@
       "line": "bx"
     },
     {
-      "id": "b_yell_kong",
-      "name": "Yell Kong",
+      "id": "b_kong_yell",
+      "name": "Kong Yell",
       "weight": 31.1,
       "type": "Defense",
       "attack": 13,
@@ -893,7 +928,359 @@
       "spin_direction": "Right",
       "release_date_tt": null,
       "release_date_hasbro": null,
-      "image_url": "assets/images/parts/blades/b_yell_kong.png",
+      "image_url": "assets/images/parts/blades/b_kong_yell.png",
+      "line": "bx"
+    },
+    {
+      "id": "b_bumblebee",
+      "name": "Bumblebee",
+      "weight": 31.8,
+      "type": "Defense",
+      "attack": 21,
+      "defense": 55,
+      "stamina": 24,
+      "dash": 0,
+      "burst_resistance": 0,
+      "spin_direction": "Right",
+      "release_date_tt": null,
+      "release_date_hasbro": null,
+      "image_url": "assets/images/parts/blades/b_bumblebee.png",
+      "line": "bx"
+    },
+    {
+      "id": "b_clock_mirage",
+      "name": "Clock Mirage",
+      "weight": 37.7,
+      "type": "Stamina",
+      "attack": 10,
+      "defense": 10,
+      "stamina": 80,
+      "dash": 0,
+      "burst_resistance": 0,
+      "spin_direction": "Right",
+      "release_date_tt": null,
+      "release_date_hasbro": null,
+      "image_url": "assets/images/parts/blades/b_clock_mirage.png",
+      "line": "ux"
+    },
+    {
+      "id": "b_darth_vader",
+      "name": "Darth Vader",
+      "weight": 30.7,
+      "type": "Defense",
+      "attack": 28,
+      "defense": 60,
+      "stamina": 12,
+      "dash": 0,
+      "burst_resistance": 0,
+      "spin_direction": "Right",
+      "release_date_tt": null,
+      "release_date_hasbro": null,
+      "image_url": "assets/images/parts/blades/b_darth_vader.png",
+      "line": "bx"
+    },
+    {
+      "id": "b_shark_gill",
+      "name": "Shark Gill",
+      "weight": 29.6,
+      "type": "Stamina",
+      "attack": 20,
+      "defense": 25,
+      "stamina": 55,
+      "dash": 0,
+      "burst_resistance": 0,
+      "spin_direction": "Right",
+      "release_date_tt": null,
+      "release_date_hasbro": null,
+      "image_url": "assets/images/parts/blades/b_shark_gill.png",
+      "line": "bx"
+    },
+    {
+      "id": "b_hover_wyvern",
+      "name": "Hover Wyvern",
+      "weight": 35.1,
+      "type": "Defense",
+      "attack": 13,
+      "defense": 60,
+      "stamina": 27,
+      "dash": 0,
+      "burst_resistance": 0,
+      "spin_direction": "Right",
+      "release_date_tt": null,
+      "release_date_hasbro": null,
+      "image_url": "assets/images/parts/blades/b_hover_wyvern.png",
+      "line": "ux"
+    },
+    {
+      "id": "b_iron_man",
+      "name": "Iron Man",
+      "weight": 32.0,
+      "type": "Defense",
+      "attack": 17,
+      "defense": 55,
+      "stamina": 28,
+      "dash": 0,
+      "burst_resistance": 0,
+      "spin_direction": "Right",
+      "release_date_tt": null,
+      "release_date_hasbro": null,
+      "image_url": "assets/images/parts/blades/b_iron_man.png",
+      "line": "bx"
+    },
+    {
+      "id": "b_luke_skywalker",
+      "name": "Luke Skywalker",
+      "weight": 29.9,
+      "type": "Defense",
+      "attack": 23,
+      "defense": 55,
+      "stamina": 22,
+      "dash": 0,
+      "burst_resistance": 0,
+      "spin_direction": "Right",
+      "release_date_tt": null,
+      "release_date_hasbro": null,
+      "image_url": "assets/images/parts/blades/b_luke_skywalker.png",
+      "line": "bx"
+    },
+    {
+      "id": "b_megatron",
+      "name": "Megatron",
+      "weight": 31.1,
+      "type": "Balance",
+      "attack": 27,
+      "defense": 35,
+      "stamina": 38,
+      "dash": 0,
+      "burst_resistance": 0,
+      "spin_direction": "Right",
+      "release_date_tt": null,
+      "release_date_hasbro": null,
+      "image_url": "assets/images/parts/blades/b_megatron.png",
+      "line": "bx"
+    },
+    {
+      "id": "b_moff_gideon",
+      "name": "Moff Gideon",
+      "weight": 30.5,
+      "type": "Balance",
+      "attack": 32,
+      "defense": 35,
+      "stamina": 33,
+      "dash": 0,
+      "burst_resistance": 0,
+      "spin_direction": "Right",
+      "release_date_tt": null,
+      "release_date_hasbro": null,
+      "image_url": "assets/images/parts/blades/b_moff_gideon.png",
+      "line": "bx"
+    },
+    {
+      "id": "b_optimus_primal",
+      "name": "Optimus Primal",
+      "weight": 35.0,
+      "type": "Attack",
+      "attack": 60,
+      "defense": 27,
+      "stamina": 13,
+      "dash": 0,
+      "burst_resistance": 0,
+      "spin_direction": "Right",
+      "release_date_tt": null,
+      "release_date_hasbro": null,
+      "image_url": "assets/images/parts/blades/b_optimus_primal.png",
+      "line": "bx"
+    },
+    {
+      "id": "b_optimus_prime",
+      "name": "Optimus Prime",
+      "weight": 31.7,
+      "type": "Balance",
+      "attack": 22,
+      "defense": 55,
+      "stamina": 23,
+      "dash": 0,
+      "burst_resistance": 0,
+      "spin_direction": "Right",
+      "release_date_tt": null,
+      "release_date_hasbro": null,
+      "image_url": "assets/images/parts/blades/b_optimus_prime.png",
+      "line": "bx"
+    },
+    {
+      "id": "b_bear_savage",
+      "name": "Bear Savage",
+      "weight": 29.6,
+      "type": "Defense",
+      "attack": 25,
+      "defense": 45,
+      "stamina": 30,
+      "dash": 0,
+      "burst_resistance": 0,
+      "spin_direction": "Right",
+      "release_date_tt": null,
+      "release_date_hasbro": null,
+      "image_url": "assets/images/parts/blades/b_bear_savage.png",
+      "line": "bx"
+    },
+    {
+      "id": "b_shockwave",
+      "name": "Shockwave",
+      "weight": 32.3,
+      "type": "Stamina",
+      "attack": 32,
+      "defense": 18,
+      "stamina": 50,
+      "dash": 0,
+      "burst_resistance": 0,
+      "spin_direction": "Right",
+      "release_date_tt": null,
+      "release_date_hasbro": null,
+      "image_url": "assets/images/parts/blades/b_shockwave.png",
+      "line": "bx"
+    },
+    {
+      "id": "b_spider_man",
+      "name": "Spider-Man",
+      "weight": 33.2,
+      "type": "Stamina",
+      "attack": 33,
+      "defense": 17,
+      "stamina": 50,
+      "dash": 0,
+      "burst_resistance": 0,
+      "spin_direction": "Right",
+      "release_date_tt": null,
+      "release_date_hasbro": null,
+      "image_url": "assets/images/parts/blades/b_spider_man.png",
+      "line": "bx"
+    },
+    {
+      "id": "b_starscream",
+      "name": "Starscream",
+      "weight": 29.5,
+      "type": "Stamina",
+      "attack": 18,
+      "defense": 27,
+      "stamina": 55,
+      "dash": 0,
+      "burst_resistance": 0,
+      "spin_direction": "Right",
+      "release_date_tt": null,
+      "release_date_hasbro": null,
+      "image_url": "assets/images/parts/blades/b_starscream.png",
+      "line": "bx"
+    },
+    {
+      "id": "b_goat_tackle",
+      "name": "Goat Tackle",
+      "weight": 31.5,
+      "type": "Defense",
+      "attack": 13,
+      "defense": 65,
+      "stamina": 22,
+      "dash": 0,
+      "burst_resistance": 0,
+      "spin_direction": "Right",
+      "release_date_tt": null,
+      "release_date_hasbro": null,
+      "image_url": "assets/images/parts/blades/b_goat_tackle.png",
+      "line": "bx"
+    },
+    {
+      "id": "b_ptera_talon",
+      "name": "Ptera Talon",
+      "weight": 34.3,
+      "type": "Stamina",
+      "attack": 27,
+      "defense": 23,
+      "stamina": 50,
+      "dash": 0,
+      "burst_resistance": 0,
+      "spin_direction": "Right",
+      "release_date_tt": null,
+      "release_date_hasbro": null,
+      "image_url": "assets/images/parts/blades/b_ptera_talon.png",
+      "line": "bx"
+    },
+    {
+      "id": "b_thanos",
+      "name": "Thanos",
+      "weight": 29.5,
+      "type": "Defense",
+      "attack": 22,
+      "defense": 60,
+      "stamina": 18,
+      "dash": 0,
+      "burst_resistance": 0,
+      "spin_direction": "Right",
+      "release_date_tt": null,
+      "release_date_hasbro": null,
+      "image_url": "assets/images/parts/blades/b_thanos.png",
+      "line": "bx"
+    },
+    {
+      "id": "b_the_mandalorian",
+      "name": "The Mandalorian",
+      "weight": 30.3,
+      "type": "Attack",
+      "attack": 40,
+      "defense": 43,
+      "stamina": 17,
+      "dash": 0,
+      "burst_resistance": 0,
+      "spin_direction": "Right",
+      "release_date_tt": null,
+      "release_date_hasbro": null,
+      "image_url": "assets/images/parts/blades/b_the_mandalorian.png",
+      "line": "bx"
+    },
+    {
+      "id": "b_tricera_spiky",
+      "name": "Tricera Spiky",
+      "weight": 29.9,
+      "type": "Defense",
+      "attack": 32,
+      "defense": 55,
+      "stamina": 13,
+      "dash": 0,
+      "burst_resistance": 0,
+      "spin_direction": "Right",
+      "release_date_tt": null,
+      "release_date_hasbro": null,
+      "image_url": "assets/images/parts/blades/b_tricera_spiky.png",
+      "line": "bx"
+    },
+    {
+      "id": "b_trypio",
+      "name": "Trypio",
+      "weight": 0.0,
+      "type": "Defense",
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burst_resistance": 0,
+      "spin_direction": "Right",
+      "release_date_tt": null,
+      "release_date_hasbro": null,
+      "image_url": "assets/images/parts/blades/b_trypio.png",
+      "line": "bx"
+    },
+    {
+      "id": "b_venom",
+      "name": "Venom",
+      "weight": 34.3,
+      "type": "Attack",
+      "attack": 55,
+      "defense": 22,
+      "stamina": 23,
+      "dash": 0,
+      "burst_resistance": 0,
+      "spin_direction": "Right",
+      "release_date_tt": null,
+      "release_date_hasbro": null,
+      "image_url": "assets/images/parts/blades/b_venom.png",
       "line": "bx"
     }
   ],
@@ -1329,6 +1716,38 @@
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/ratchets/r_m_85.png",
       "line": "bx"
+    },
+    {
+      "id": "r_1_70",
+      "name": "1-70",
+      "weight": 6.1,
+      "type": "Unknown",
+      "attack": 17,
+      "defense": 6,
+      "stamina": 7,
+      "dash": 0,
+      "burst_resistance": 0,
+      "spin_direction": "Right",
+      "release_date_tt": null,
+      "release_date_hasbro": null,
+      "image_url": "assets/images/parts/ratchets/r_1_70.png",
+      "line": "bx"
+    },
+    {
+      "id": "r_9_65",
+      "name": "9-65",
+      "weight": 4.5,
+      "type": "Unknown",
+      "attack": 13,
+      "defense": 10,
+      "stamina": 7,
+      "dash": 0,
+      "burst_resistance": 0,
+      "spin_direction": "Right",
+      "release_date_tt": null,
+      "release_date_hasbro": null,
+      "image_url": "assets/images/parts/ratchets/r_9_65.png",
+      "line": "ux"
     }
   ],
   "bits": [
@@ -1383,13 +1802,13 @@
     {
       "id": "bt_cyclone",
       "name": "Cyclone",
-      "weight": 0.0,
+      "weight": 2.1,
       "type": "Attack",
-      "attack": 0,
-      "defense": 0,
-      "stamina": 0,
-      "dash": 0,
-      "burst_resistance": 0,
+      "attack": 40,
+      "defense": 5,
+      "stamina": 10,
+      "dash": 45,
+      "burst_resistance": 80,
       "spin_direction": "Right",
       "release_date_tt": null,
       "release_date_hasbro": null,
@@ -1939,6 +2358,38 @@
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/bits/bt_zap.png",
       "line": "ux"
+    },
+    {
+      "id": "bt_disk_ball",
+      "name": "Disk Ball",
+      "weight": 3.2,
+      "type": "Stamina",
+      "attack": 15,
+      "defense": 20,
+      "stamina": 55,
+      "dash": 10,
+      "burst_resistance": 30,
+      "spin_direction": "Right",
+      "release_date_tt": null,
+      "release_date_hasbro": null,
+      "image_url": "assets/images/parts/bits/bt_disk_ball.png",
+      "line": "ux"
+    },
+    {
+      "id": "bt_trans_kick",
+      "name": "Trans Kick",
+      "weight": 2.3,
+      "type": "Balance",
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burst_resistance": 0,
+      "spin_direction": "Right",
+      "release_date_tt": null,
+      "release_date_hasbro": null,
+      "image_url": "assets/images/parts/bits/bt_trans_kick.png",
+      "line": "cx"
     }
   ],
   "cx_assist_blades": [
@@ -1956,7 +2407,7 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/cx_assist_blades/cxab_bumper.png",
-      "line": "unknown"
+      "line": "cx"
     },
     {
       "id": "cxab_charge",
@@ -1972,7 +2423,7 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/cx_assist_blades/cxab_charge.png",
-      "line": "unknown"
+      "line": "cx"
     },
     {
       "id": "cxab_jaggy",
@@ -1993,18 +2444,18 @@
     {
       "id": "cxab_round",
       "name": "Round",
-      "weight": 0.0,
+      "weight": 4.7,
       "type": "Stamina",
-      "attack": 0,
-      "defense": 0,
-      "stamina": 0,
+      "attack": 10,
+      "defense": 10,
+      "stamina": 20,
       "dash": 0,
       "burst_resistance": 0,
       "spin_direction": "Right",
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/cx_assist_blades/cxab_round.png",
-      "line": "unknown"
+      "line": "cx"
     },
     {
       "id": "cxab_slash",
@@ -2020,7 +2471,7 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/cx_assist_blades/cxab_slash.png",
-      "line": "unknown"
+      "line": "cx"
     },
     {
       "id": "cxab_turn",
@@ -2036,14 +2487,14 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/cx_assist_blades/cxab_turn.png",
-      "line": "unknown"
+      "line": "cx"
     }
   ],
   "cx_lock_chips": [
     {
       "id": "cxlc_dran",
       "name": "Dran",
-      "weight": 46.4,
+      "weight": 1.7,
       "type": "Attack",
       "attack": 0,
       "defense": 0,
@@ -2054,7 +2505,7 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/cx_lock_chips/cxlc_dran.png",
-      "line": "ux"
+      "line": "cx"
     },
     {
       "id": "cxlc_fox",
@@ -2070,7 +2521,7 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/cx_lock_chips/cxlc_fox.png",
-      "line": "unknown"
+      "line": "cx"
     },
     {
       "id": "cxlc_hells",
@@ -2102,7 +2553,7 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/cx_lock_chips/cxlc_perseus.png",
-      "line": "unknown"
+      "line": "cx"
     },
     {
       "id": "cxlc_rhino",
@@ -2118,7 +2569,7 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/cx_lock_chips/cxlc_rhino.png",
-      "line": "bx"
+      "line": "cx"
     },
     {
       "id": "cxlc_wizard",
@@ -2134,41 +2585,137 @@
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/cx_lock_chips/cxlc_wizard.png",
-      "line": "unknown"
+      "line": "cx"
+    },
+    {
+      "id": "cxlc_drake",
+      "name": "Drake",
+      "weight": 0.0,
+      "type": "Unknown",
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burst_resistance": 0,
+      "spin_direction": "Right",
+      "release_date_tt": null,
+      "release_date_hasbro": null,
+      "image_url": "assets/images/parts/cx_lock_chips/cxlc_drake.png",
+      "line": "cx"
+    },
+    {
+      "id": "cxlc_hornet",
+      "name": "Hornet",
+      "weight": 1.7,
+      "type": "Unknown",
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burst_resistance": 0,
+      "spin_direction": "Right",
+      "release_date_tt": null,
+      "release_date_hasbro": null,
+      "image_url": "assets/images/parts/cx_lock_chips/cxlc_hornet.png",
+      "line": "cx"
+    },
+    {
+      "id": "cxlc_kraken",
+      "name": "Kraken",
+      "weight": 1.7,
+      "type": "Unknown",
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burst_resistance": 0,
+      "spin_direction": "Right",
+      "release_date_tt": null,
+      "release_date_hasbro": null,
+      "image_url": "assets/images/parts/cx_lock_chips/cxlc_kraken.png",
+      "line": "cx"
+    },
+    {
+      "id": "cxlc_sol",
+      "name": "Sol",
+      "weight": 1.7,
+      "type": "Unknown",
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burst_resistance": 0,
+      "spin_direction": "Right",
+      "release_date_tt": null,
+      "release_date_hasbro": null,
+      "image_url": "assets/images/parts/cx_lock_chips/cxlc_sol.png",
+      "line": "cx"
+    },
+    {
+      "id": "cxlc_stag",
+      "name": "Stag",
+      "weight": 1.7,
+      "type": "Unknown",
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burst_resistance": 0,
+      "spin_direction": "Right",
+      "release_date_tt": null,
+      "release_date_hasbro": null,
+      "image_url": "assets/images/parts/cx_lock_chips/cxlc_stag.png",
+      "line": "cx"
+    },
+    {
+      "id": "cxlc_valkyrie",
+      "name": "Valkyrie",
+      "weight": 5.6,
+      "type": "Unknown",
+      "attack": 0,
+      "defense": 0,
+      "stamina": 0,
+      "dash": 0,
+      "burst_resistance": 0,
+      "spin_direction": "Right",
+      "release_date_tt": null,
+      "release_date_hasbro": null,
+      "image_url": "assets/images/parts/cx_lock_chips/cxlc_valkyrie.png",
+      "line": "cx"
     }
   ],
   "cx_main_blades": [
     {
       "id": "cxmb_arc",
       "name": "Arc",
-      "weight": 29.6,
+      "weight": 29.2,
       "type": "Stamina",
-      "attack": 0,
-      "defense": 0,
-      "stamina": 0,
+      "attack": 10,
+      "defense": 10,
+      "stamina": 40,
       "dash": 0,
       "burst_resistance": 0,
       "spin_direction": "Right",
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/cx_main_blades/cxmb_arc.png",
-      "line": "unknown"
+      "line": "cx"
     },
     {
       "id": "cxmb_brave",
       "name": "Brave",
-      "weight": 66.4,
+      "weight": 31.2,
       "type": "Attack",
-      "attack": 0,
-      "defense": 0,
-      "stamina": 0,
+      "attack": 40,
+      "defense": 10,
+      "stamina": 10,
       "dash": 0,
       "burst_resistance": 0,
       "spin_direction": "Right",
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/cx_main_blades/cxmb_brave.png",
-      "line": "unknown"
+      "line": "cx"
     },
     {
       "id": "cxmb_brush",
@@ -2189,18 +2736,18 @@
     {
       "id": "cxmb_dark",
       "name": "Dark",
-      "weight": 0.0,
+      "weight": 30.3,
       "type": "Defense",
-      "attack": 0,
-      "defense": 0,
-      "stamina": 0,
+      "attack": 10,
+      "defense": 40,
+      "stamina": 10,
       "dash": 0,
       "burst_resistance": 0,
       "spin_direction": "Right",
       "release_date_tt": null,
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/cx_main_blades/cxmb_dark.png",
-      "line": "unknown"
+      "line": "cx"
     },
     {
       "id": "cxmb_reaper",
@@ -2217,7 +2764,71 @@
       "release_date_hasbro": null,
       "image_url": "assets/images/parts/cx_main_blades/cxmb_reaper.png",
       "line": "cx"
+    },
+    {
+      "id": "cxmb_antler",
+      "name": "Antler",
+      "weight": 29.1,
+      "type": "Stamina",
+      "attack": 8,
+      "defense": 15,
+      "stamina": 37,
+      "dash": 0,
+      "burst_resistance": 0,
+      "spin_direction": "Right",
+      "release_date_tt": null,
+      "release_date_hasbro": null,
+      "image_url": "assets/images/parts/cx_main_blades/cxmb_antler.png",
+      "line": "cx"
+    },
+    {
+      "id": "cxmb_fort",
+      "name": "Fort",
+      "weight": 29.0,
+      "type": "Balance",
+      "attack": 24,
+      "defense": 12,
+      "stamina": 24,
+      "dash": 0,
+      "burst_resistance": 0,
+      "spin_direction": "Right",
+      "release_date_tt": null,
+      "release_date_hasbro": null,
+      "image_url": "assets/images/parts/cx_main_blades/cxmb_fort.png",
+      "line": "cx"
+    },
+    {
+      "id": "cxmb_volt",
+      "name": "Volt",
+      "weight": 31.0,
+      "type": "Attack",
+      "attack": 45,
+      "defense": 15,
+      "stamina": 15,
+      "dash": 0,
+      "burst_resistance": 0,
+      "spin_direction": "Right",
+      "release_date_tt": null,
+      "release_date_hasbro": null,
+      "image_url": "assets/images/parts/cx_main_blades/cxmb_volt.png",
+      "line": "cx"
+    },
+    {
+      "id": "cxmb_wriggle",
+      "name": "Wriggle",
+      "weight": 29.3,
+      "type": "Stamina",
+      "attack": 8,
+      "defense": 12,
+      "stamina": 40,
+      "dash": 0,
+      "burst_resistance": 0,
+      "spin_direction": "Right",
+      "release_date_tt": null,
+      "release_date_hasbro": null,
+      "image_url": "assets/images/parts/cx_main_blades/cxmb_wriggle.png",
+      "line": "cx"
     }
   ],
-  "version": 2
+  "version": 4
 }
